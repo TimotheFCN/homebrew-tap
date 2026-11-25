@@ -1,6 +1,6 @@
 cask "fastwarden" do
   version "0.0.1"
-  sha256 "231236d374c36d2c2f4525f6df551397d62f0738c84477b47e2f6d6bbb53f8d1"
+  sha256 "8501f478b97f0addad55dafe91bba3ccee15bf1a5aa04df3ff151a6b3ca8020d"
 
   url "https://github.com/TimotheFCN/rbw-desktop/releases/download/#{version}/rbw-desktop-macos-universal.dmg"
   name "Fastwarden"
