@@ -5,23 +5,23 @@ class RbwNg < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/TimotheFCN/rbw-ng/releases/download/1.18.1/rbw-ng-1.18.1-aarch64-apple-darwin.tar.gz"
-      sha256 "d00a48c0669270cc16e51b29ec40666e20d0d37caa9844d2ec9c9d7898a52879"
+      url "https://github.com/TimotheFCN/rbw-ng/releases/download/1.19.0/rbw-ng-1.19.0-aarch64-apple-darwin.tar.gz"
+      sha256 "a0d2b228e75e3cb5cf8caf1563adecd70d035feecbd2e1f3f2c571a07d440bb5"
     end
     on_intel do
-      url "https://github.com/TimotheFCN/rbw-ng/releases/download/1.18.1/rbw-ng-1.18.1-x86_64-apple-darwin.tar.gz"
-      sha256 "8fbe85873c76cc683e44a0672fa04b7a3f5025752851920154e33f6e48b8b018"
+      url "https://github.com/TimotheFCN/rbw-ng/releases/download/1.19.0/rbw-ng-1.19.0-x86_64-apple-darwin.tar.gz"
+      sha256 "cfd7c6eb835079d38c6c4befbb5f98620697d759e885e4f37c6ea84a167d004a"
     end
   end
 
   on_linux do
     on_arm do
-      url "https://github.com/TimotheFCN/rbw-ng/releases/download/1.18.1/rbw-ng-1.18.1-aarch64-unknown-linux-musl.tar.gz"
-      sha256 "b9242afb783bc9423c5b8db235059f3ac738cc16a8e94d70cd66286814e36772"
+      url "https://github.com/TimotheFCN/rbw-ng/releases/download/1.19.0/rbw-ng-1.19.0-aarch64-unknown-linux-musl.tar.gz"
+      sha256 "fa4156e19a7b37f87a7d3db466595ac876bf46b28c76466bcaba7baa697f9d5e"
     end
     on_intel do
-      url "https://github.com/TimotheFCN/rbw-ng/releases/download/1.18.1/rbw-ng-1.18.1-x86_64-unknown-linux-musl.tar.gz"
-      sha256 "0e2795f81e5a0545a35e01f94ed059999822cfa96ac875a534603ccd7b422326"
+      url "https://github.com/TimotheFCN/rbw-ng/releases/download/1.19.0/rbw-ng-1.19.0-x86_64-unknown-linux-musl.tar.gz"
+      sha256 "c3685094d1f73cb6e0d14e78b41ee7ac294df32d3210e69693285bbb73a673e0"
     end
   end
 
